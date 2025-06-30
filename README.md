@@ -36,8 +36,21 @@ signup-page/
    ```
 3. Open `index.html` in your browser.
        **or**  
-   - Use VS Code Live Server extension
-
+  <br>
+1.Download Zip File From Github
+<br>
+2.Create One Folder on Your Desktop
+<br>
+3.Open That Folder In VS Code
+<br>
+4.Create One File For HTML,Like That one For CSS and JS
+<br>
+5.Link all CSS And JS File in HTMl
+<br>
+6.After Link All File come in HTML
+<br>
+7.Click On Live Server and You Can See Output
+<br>
 ## 👨‍💻 Author
 
 **Sachin Kumar Ojha**  
