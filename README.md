@@ -4,7 +4,7 @@ This project is a responsive **Signup Page** built using **HTML**, **CSS**, and 
 
 ## 🔗 Live Demo Of This Project
 
-👉 [Click here to view the live project](https://SachinOjha2001.github.io/LoginPage/)
+👉 [Click here to view the live project]( https://sachinojha2001.github.io/SignupPage/)
 
 <br>Screenshot<br>
 ![image](https://github.com/user-attachments/assets/c56811a2-a780-4a74-937f-00ead38b96f2)
