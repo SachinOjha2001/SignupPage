@@ -1,6 +1,10 @@
 # Responsive Signup Page
 
-This project is a responsive **Signup Page** built using **HTML**, **CSS**, and **JavaScript**. It showcases a clean, mobile-friendly interface with all necessary form validations implemented using JavaScript.
+This project is a responsive **Signup Page** built using **HTML**, **CSS**, and **JavaScript**. It showcases a clean, mobile-friendly interface with all necessary form validations implemented using JavaScript.<br>
+
+## 🔗 Live Demo Of This Project
+
+👉 [Click here to view the live project](https://SachinOjha2001.github.io/LoginPage/)
 
 <br>Screenshot<br>
 ![image](https://github.com/user-attachments/assets/c56811a2-a780-4a74-937f-00ead38b96f2)
